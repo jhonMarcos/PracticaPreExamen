@@ -1,4 +1,6 @@
 Estoy probando
   conflicto ahora
 Perro negro Gato blanco
-Pokemon diamante
+Pokemon diamante/Pokemon blanco
+
+
